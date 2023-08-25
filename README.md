@@ -27,7 +27,7 @@ Coding BootCamp Curriculum:
 
 ## License
 
-N/A
+Reference to the Repo.
 
 ## Badges
 
@@ -41,5 +41,6 @@ N/A
 N/A
 
 ## Tests
-Here is the live link to Pages: [Horiseon|Bootcamp-Challenge-1|Code-Refactor](https://chasqui10.github.io/Bootcamp-Challenge-1/)
+Here is the live link to Pages: [Horiseon | Bootcamp-Challenge-1 | Code-Refactor](https://chasqui10.github.io/Bootcamp-Challenge-1/)
 
+Here is an image of the live Page for the challenge: ![Image of the Webpage](./assets/images/Pages-live-code-refactor.png)
